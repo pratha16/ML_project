@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: V1_App
+Version: 1.0
+Summary: A sample Python application
+Home-page: https://github.com/pratha16/ML_project/tree/main
+Author: Prathamesh More
+Author-email: prathamesh162002@gmail.com
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: scikit-learn
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
